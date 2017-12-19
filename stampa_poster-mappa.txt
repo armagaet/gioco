@@ -1,0 +1,30 @@
+ISTRUZIONI PER LA STAMPA DELLA MAPPA DEL GIOCO:
+
+Dal layer3 di QGis esportare la mappa come PNG in formato A2
+
+Aprire l'immagine così creata su Paint di Windows. Impostare la stampa come 2x2, A3 orizzontale, e centrarla. Annullare i margini.
+
+Esportare come PDF.
+
+Se nel PDF l'immagine appare tagliata, piuttosto ridurre in percentuale l'immagine, in modo che i 4 pezzi della mappa possano combaciare tra loro
+
+
+VERSIONE A2 su 2 fogli A3:
+Scegliere stampa 2x1, margini a zero o più piccoli possibili, sarebbe bene avere una stampante che stampa senza bordo, poi foglio A3 verticale centrato, esporta in PDF.
+
+
+VERSIONE A2 su 4 fogli A4: di gran lunga l'opzione migliore:
+...
+Per adattare però questa stampa al tabellone in cartone acquistato dalla Germania, occorre effettuare una riduzione percentuale della stampa....
+Ma quale???
+
+
+
+***********************************
+ISTRUZIONI PER STAMPARE IL REGOLAMENTO COME BROCHURE IN A5:
+
+Esporti in pdf semplice il documento, già in A5.
+
+La funzione "opuscolo" la trovi poi su AdobeReader.
+
+N.B.: il numero dipagine di cui è composto il documento deve essere unmultiplo di 4 altrimenti mischia tutte le pagine.
