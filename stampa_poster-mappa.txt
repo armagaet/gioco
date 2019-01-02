@@ -18,6 +18,8 @@ VERSIONE A2 su 4 fogli A4: di gran lunga l'opzione migliore:
 Per adattare però questa stampa al tabellone in cartone acquistato dalla Germania, occorre effettuare una riduzione percentuale della stampa....
 Ma quale???
 
+Ipotesi 1: si può selezionare il formato del foglio accedendo alle proprietà avanzate della stampante PDF che si usa su PAINT per creare la mappa in pdf su 4 pagine. Le dimensioni della DINA4 col quale viene fornito il tabellone dalla Germania misura 277x190. Fatto questo, basterebbe stampare il PDF su A4 alle "dimensioni effettive"....
+
 
 
 ***********************************
@@ -27,4 +29,4 @@ Esporti in pdf semplice il documento, già in A5.
 
 La funzione "opuscolo" la trovi poi su AdobeReader.
 
-N.B.: il numero dipagine di cui è composto il documento deve essere unmultiplo di 4 altrimenti mischia tutte le pagine.
+N.B.: il numero di pagine di cui è composto il documento deve essere un multiplo di 4 altrimenti mischia tutte le pagine.
