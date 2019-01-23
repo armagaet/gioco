@@ -20,6 +20,9 @@ Ma quale???
 
 Ipotesi 1: si può selezionare il formato del foglio accedendo alle proprietà avanzate della stampante PDF che si usa su PAINT per creare la mappa in pdf su 4 pagine. Le dimensioni della DINA4 col quale viene fornito il tabellone dalla Germania misura 277x190. Fatto questo, basterebbe stampare il PDF su A4 alle "dimensioni effettive"....ma ciò non funziona in quanto il PNG ha dei margini. Stampare allora alla scala personalizzata del 102%
 
+--> con la nuova mappa Babylon, esporto così com'è da GIMP in png, poi trasformo in PDF secondo quanto scritto prima (poster 2x2 con margini minimi).
+A questo punto pare che la percentuale di stampa corretta sia il 92%
+
 
 
 ***********************************
