@@ -1,0 +1,23 @@
+<!DOCTYPE qgis_bookmarks>
+<qgis_bookmarks>
+  <bookmark>
+    <id>1</id>
+    <name>Nuovo segnalibro</name>
+    <project>sismi_alessandria.qgs</project>
+    <xmin>424294.76</xmin>
+    <ymin>4915368.27</ymin>
+    <xmax>542428.726647456</xmax>
+    <ymax>5014092.79</ymax>
+    <sr_id>3116</sr_id>
+  </bookmark>
+  <bookmark>
+    <id>2</id>
+    <name>Nuovo segnalibro</name>
+    <project>imeas_stakeholder.qgs</project>
+    <xmin>-2.1245503597122</xmin>
+    <ymin>41.6930685971223</ymin>
+    <xmax>21.5004496402878</xmax>
+    <ymax>55.6513644604316</ymax>
+    <sr_id>3452</sr_id>
+  </bookmark>
+</qgis_bookmarks>

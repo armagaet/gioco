@@ -1,0 +1,7 @@
+Allgau;Germany;47.733333;10.316667
+Upper Bavaria;Germany;48.133333;11.566667
+Celje;Slovenia;46.229092;15.264129
+Trento;Italy;46.066667;11.116667
+Vaud;Switzerland;46.524;6.636
+Vorarlberg;Austria;47.243611;9.893889
+Aura;France;45.7052;4.8422
