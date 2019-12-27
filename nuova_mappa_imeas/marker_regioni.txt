@@ -5,3 +5,9 @@ Trento;Italy;46.066667;11.116667
 Vaud;Switzerland;46.524;6.636
 Vorarlberg;Austria;47.243611;9.893889
 Aura;France;45.7052;4.8422
+Grenoble;France;45.1667;5.7167
+Salzburg;Austria;47.7972;13.04768
+Parc du Vercors;France;44.9208;5.4338
+Gland/Morges/Montreux;Switzerland;46.3706;6.265
+Morges;Switzerland;46.4558;6.4984
+Montreux;Switzerland;46.3801;6.9159
